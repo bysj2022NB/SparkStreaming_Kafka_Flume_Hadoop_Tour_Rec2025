@@ -1,0 +1,2 @@
+# SparkStreaming_Kafka_Flume_Hadoop_Tour_Rec2025
+计算机毕业设计SparkStreaming+Kafka旅游推荐系统 旅游景点客流量预测 旅游可视化 旅游大数据 Hive数据仓库 Flume 机器学习 深度学习
